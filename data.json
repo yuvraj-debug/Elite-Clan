@@ -1,0 +1,12 @@
+{
+  "whitelistedUsers": [
+    "1202998273376522331"
+  ],
+  "enabledFeatures": {
+    "linkBlocking": true,
+    "securityMode": true
+  },
+  "warnedUsers": {
+    "1202998273376522331": 1
+  }
+}
